@@ -9,6 +9,6 @@
 -   uv remove pandas
 -   uv lock --upgrade-package pandas
 
-### Running Commands
+### Running Commands
 
 -   uv run main.py
